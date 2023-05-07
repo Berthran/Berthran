@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, My name is Daniel Berthran</h1>
-<h3 align="center">I'm a fullstack developer niched in the backend of things!</h3>
+<h3 align="left">I'm a fullstack developer niched in the backend of things!</h3>
 
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
