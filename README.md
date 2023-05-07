@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/CD_Berthran" target="blank"><img src="https://img.shields.io/twitter/follow/CD_Berthran?logo=twitter&style=for-the-badge" alt="g_vestautong" /></a> </p>
 
-- 💬 Ask me about **Python, JavaScript, React**
+- 💬 Ask me about **Python, C, Fitness**
 
-- 📫 How to reach me **godswillutong@gmail.com**
+- 📫 How to reach me **chikabdaniel@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/godswill-utong-acifc-acib-10252915b](https://www.linkedin.com/in/godswill-utong-acifc-acib-10252915b)
 
-- ⚡ Fun fact **when I'm not coding, I am playing Clash of Clans, Tennis or watching anime :)**
+- ⚡ Fun fact **Aside coding I love dancing and leading praises :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
