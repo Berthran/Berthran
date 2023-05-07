@@ -7,7 +7,7 @@
 </a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/g_vestautong" target="blank"><img src="https://img.shields.io/twitter/follow/g_vestautong?logo=twitter&style=for-the-badge" alt="g_vestautong" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CD_Berthran" target="blank"><img src="https://img.shields.io/twitter/follow/CD_Berthran?logo=twitter&style=for-the-badge" alt="g_vestautong" /></a> </p>
 
 - 💬 Ask me about **Python, JavaScript, React**
 
